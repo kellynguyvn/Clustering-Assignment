@@ -36,6 +36,7 @@ https://colab.sandbox.google.com/github/saskeli/data-analysis-with-python-summer
 ### c) Gaussian mixture models clustering (not from scratch)
 #### Imports
 ```
+import pandas as pd
 ```
 ### References
 https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb
