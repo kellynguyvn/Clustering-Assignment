@@ -95,6 +95,11 @@ https://github.com/Ruchi2507/Text-Clustering
 ### h) Write a colab for clustering with images using imagebind llm embeddings 
 #### Imports
 ```
+!pip install tensorflow
+!pip install scikit-learn
+!pip install matplotlib
+!pip install pillow
+
 ```
 ### References
 https://medium.com/@tatsuromurata317/image-bind-metaai-on-google-colab-free-843f30a4977c
