@@ -109,6 +109,7 @@ https://cobusgreyling.medium.com/using-openai-embeddings-for-search-clustering-8
 ### i) Write a colab for audio embeddings using imagebind llms
 #### Imports
 ```
+!pip install torch
 ```
 ### References
 https://towardsdatascience.com/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64
