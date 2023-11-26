@@ -94,6 +94,7 @@ https://github.com/qingsongedu/awesome-AI-for-time-series-papers
 ### g) Write a colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings).
 #### Imports
 ```
+!pip install python-docx
 ```
 ### References
 https://github.com/simonw/llm-cluster
