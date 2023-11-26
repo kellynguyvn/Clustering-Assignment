@@ -23,6 +23,12 @@ https://colab.sandbox.google.com/github/google/eng-edu/blob/main/ml/clustering/c
 ### b) Hierarchical clustering (not from scratch)
 #### Imports
 ```
+import pandas as pd
+import numpy as np
+from scipy.cluster.hierarchy import dendrogram, linkage
+from matplotlib import pyplot as plt
+from sklearn.preprocessing import StandardScaler
+from sklearn.cluster import AgglomerativeClustering
 ```
 ### References
 https://colab.sandbox.google.com/github/saskeli/data-analysis-with-python-summer-2019/blob/master/clustering.ipynb
