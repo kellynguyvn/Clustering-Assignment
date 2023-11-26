@@ -57,6 +57,17 @@ https://github.com/ritvikmath/Time-Series-Analysis/blob/master/Anomaly%20Detecti
 ### f) Illustrate clustering of timeseries data using pretrained models 
 #### Imports
 ```
+!pip install pandas numpy matplotlib seaborn scikit-learn tensorflow tslearn
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.preprocessing import StandardScaler
+from sklearn.cluster import KMeans
+from tslearn.clustering import TimeSeriesKMeans
+from tslearn.preprocessing import TimeSeriesScalerMeanVariance
+import tensorflow as tf
 ```
 ### References
 https://github.com/V-MalM/Stock-Clustering-and-Prediction
