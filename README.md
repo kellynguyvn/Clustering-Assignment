@@ -6,6 +6,11 @@ Implement various clustering algorithms in colabs - use generously gpt4 latest. 
 ### a) K-Means clustering from scratch
 #### Imports
 ```
+from sklearn.cluster import KMeans
+import pandas as pd
+from sklearn.preprocessing import MinMaxScaler
+from matplotlib import pyplot as plt
+%matplotlib inline
 ```
 ### References
 https://colab.sandbox.google.com/github/SANTOSHMAHER/Machine-Learning-Algorithams/blob/master/K_Means_algorithm_using_Python_from_scratch_.ipynb
